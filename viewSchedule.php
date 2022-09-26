@@ -120,7 +120,7 @@
 							echo "<div style='padding-top:15px' class='col-md-2 text-left'>";
 								echo "<form method='post'>";
 									echo "<input type='hidden' name='drop' value=".$availableId.">";
-									echo "<td><button data-toggle='tooltip' title='Warning: This will drop this class' style='font-family:sans-serif' type='submit' class='btn btn-danger' name='dropButton'>DROP</button></td>";
+									echo "<td><button data-toggle='tooltip' title='Warning: This will drop this class' style='font-family:sans-serif' type='submit' class='btn btn-danger' name='dropButton'>Drop Course</button></td>";
 								echo "</form>";
 							echo "</div>";
 						echo "</div>";
