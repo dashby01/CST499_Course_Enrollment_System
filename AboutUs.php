@@ -5,52 +5,24 @@ require 'footer.php';
 
 <!DOCTYPE html>
 <html>
-<style>
-.middle {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  text-align: center;
-}
-
-hr {
-  margin: auto;
-  width: 40%;
-}
-</style>
 <body>
+	<div class="about-section">
+	<div style="text-align:center">
+	  <h1>About Us</h1>
+	  <p><p>Created this page for my CST Capstone Project for the University of Arizona Global Campus.</p></p>
 
-<div id="icon-text-block-106216" class="icon-text-block">
-    <div class="icon-text-block__inner-wrapper">
+		<h2> Our Team</h2>
+		<div class="row">
+			  <img src="https://media-exp1.licdn.com/dms/image/C5603AQFyGGhvnhuDNw/profile-displayphoto-shrink_200_200/0/1516904397301?e=1669852800&v=beta&t=lJmjwMAenECRyH_W5I369WtNWqmmZRfNqnhjSBalR9k" alt="David" style="width:10%">
+			  <div class="container">
+				<h2>David Ashby</h2>
+				<p class="title">CEO & Founder</p>
+				<p>david.ashby.02@gmail.com</p>
+				<p>https://github.com/dashby01</p>
+			</div>
+		</div>
+	</div>
+	</div>
 
-              <div class="icon-text-block__red-bar"></div>
-
-        <div class="icon-text-block__content-block">
-                                <h2 class="icon-text-block__heading">
-              Our Mission
-            </h2>
-            <div class="icon-text-block__text-block">
-              <p class="text-align-center">To provide a community of caring and guidance for academic, financial, mental health,&nbsp;and career&nbsp;support while providing a path that makes quality college education accessible to adult learners through online, flexible degree and certificate programs.</p>
-
-            </div>
-                  </div>
-                        </div>
-          </div>
-<div id="icon-text-block-138886" class="icon-text-block --grey-background">
-    <div class="icon-text-block__inner-wrapper">
-
-              <div class="icon-text-block__red-bar"></div>
-
-        <div class="icon-text-block__content-block">
-                                <h2 class="icon-text-block__heading">
-              Our Purpose
-            </h2>
-                                <div class="icon-text-block__text-block">
-              <p class="text-align-center">To transform the higher education landscape and make it accessible for everyone, no matter their background or circumstance.</p>
-
-            </div>
-                  </div>
-                        </div>
-          </div>		  
+</body>  
 </html>
